@@ -11,7 +11,7 @@
   </div>
 </template>
 <script setup>
-import Panzoom from "@panzoom/panzoom";
+import * as PanzoomModule from '@panzoom/panzoom';
 import { ref, onMounted } from "vue";
 
 const zoom = ref(null);
@@ -34,7 +34,7 @@ const props = defineProps({
 
 onMounted(() => {
   if (container.value) {
-    const panzoom = Panzoom(container.value, {
+    const panzoom = PanzoomModule.Panzoom(container.value, {
       maxScale: 5,
       contain: 'outside',
       minScale: 0.8,

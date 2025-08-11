@@ -14,7 +14,8 @@
       "@icons/*": ["src/icons/*"],
       "@src/*": ["src/*"],
       "@assets/*": ["src/assets/*"],
-      "@locales/*": ["src/locales/*"]
+      "@locales/*": ["src/locales/*"],
+      "@lib/*": ["src/lib/*"]
     },
 
     "jsx": "preserve",

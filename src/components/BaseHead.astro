@@ -22,11 +22,11 @@ const pageTitle = `${title} | ${data.sitename}`;
 /* SOCIAL IMAGE */
 if(thumbnail) {
 
-  const allImages = import.meta.glob("/src/assets/*.{jpeg,jpg,png,gif}");
+  const allImages = import.meta.glob("/src/assets/*.{jpeg,jpg,png,gif,webp}");
 
   const imgObj = (await allImages[thumbnail]()).default;
-  
- 
+
+
   socialImage = await getImage({
     src: imgObj,
     width: 1200,
