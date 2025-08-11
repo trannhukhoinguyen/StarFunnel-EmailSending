@@ -13,6 +13,7 @@
 <script setup>
 import Panzoom from "@panzoom/panzoom";
 import { ref, onMounted } from "vue";
+
 const zoom = ref(null);
 const container = ref(null);
 const panzoom = ref(null);
@@ -22,11 +23,26 @@ const props = defineProps({
     required: true,
   },
 });
-onMounted(() => {
+
+/*onMounted(() => {
   panzoom.value = Panzoom(zoom.value, {
     maxScale: 5,
     minScale: 0.8,
     overflow: "visible",
   });
+});*/
+
+onMounted(() => {
+  if (container.value) {
+    const panzoom = Panzoom(container.value, {
+      maxScale: 5,
+      contain: 'outside',
+      minScale: 0.8,
+      overflow: "visible",
+    });
+
+    // Cho phép cuộn để zoom
+    container.value.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
+  }
 });
 </script>
