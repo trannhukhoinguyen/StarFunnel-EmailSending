@@ -1,25 +1,25 @@
 ---
 main_menu:
-  - label: News
-    href: /news
-  - label: Pricing
-    href: /pricing
-  - label: About
-    href: /about-starfunnel
-  - label: Contact
+  - label: Tour
+    href: /tours
+  - label: Giới thiệu
+    href: /ve-chung-toi
+  - label: Chính sách
+    href: /policy
+  - label: Liên hệ
     href: "#contact"
 cta_menu:
-  - label: Get started
-    href: https://github.com/unfolding-io/StarFunnel
+  - label: Đặt tour ngay
+    href: /tours
 footer_menus:
   - label: Info
     links:
       - label: Home
         href: /
-      - label: License
-        href: /license
-      - label: About
-        href: /about-starfunnel
+      - label: Giới thiệu
+        href: /ve-chung-toi
+      - label: Chính sách
+        href: /policy
       - label: Need help?
         href: /kickstart-your-project
   - label: Documentation

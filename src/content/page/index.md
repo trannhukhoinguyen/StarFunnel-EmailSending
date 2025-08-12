@@ -1,7 +1,7 @@
 ---
 title: StarFunnel, the Astro powered funnel builder
-description: Elevate your business with plain funnel building magic.
-intro: When you need a landing page for your product fast
+description: Lạc Việt Tourist chuyên cung cấp các hành trình du lịch trong nước và quốc tế dành riêng cho người Việt.
+intro: Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
 style:
   hero_template: image
   template: full
@@ -20,7 +20,7 @@ hero:
     video_preview: /video/video_preview.mp4
     aspect: 1.777
     embed: youtube
-    video_id: yy0XwzSRH-0
+    video_id: N3pZRhV1U
     background_image: ""
     image_opacity: "0.1"
   background: pattern
@@ -31,9 +31,9 @@ hero:
     container: xl
     surface: surface-dark
   title: |
-    StarFunnel, the **Astro** powered landing page builder
+    **Lạc Việt Tourist**
   intro: >
-    Start creating your blazing fast Astro sales funnel for saas, product, service or app.
+    Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
   buttons:
     - icon_only: false
       label: Learn more
@@ -50,42 +50,40 @@ blocks:
       block_class: py-20
     features:
       - content: >
-          Easily customize your design, bringing your unique vision to life.
+          **Lạc Việt Tourist**
         icon: /src/icons/tailwind.svg
         color: surface-secondary
         title: Tailwind CSS
       - icon: /src/icons/phone.svg
         content: >
-          You can assign different email addresses or Slack channels to specific topics.
+          **Lạc Việt Tourist**
         color: surface-secondary
         href: ""
         title: Contact Form
       - color: surface-secondary
         icon: /src/icons/email.svg
         content: >
-          Our Mailchimp integration empowers you to effortlessly create multiple forms with robust tag and list support.
+          **Lạc Việt Tourist**
         title: Newsletters
       - icon: /src/icons/blocks-group-solid.svg
         content: >
-          Customize and extend your page exactly the way you want it.
+          **Lạc Việt Tourist**
         color: surface-secondary
         href: ""
         title: Page Block Builder
       - href: "#"
         icon: /src/icons/git.svg
         content: >
-          With Astro + Static CMS, your content finds its home in a Git repository, ensuring efficient content management and collaboration.
+          **Lạc Việt Tourist**
         color: surface-secondary
         title: Git-Based
       - content: >
-          Give your visitors the freedom to choose their preferred color scheme, ensuring a personalized browsing experience.
+          **Lạc Việt Tourist**
         color: surface-secondary
         icon: /src/icons/dark-theme-20-filled.svg
         title: Light & Darkmode
     content: |+
-      ## StarFunnel Features
-
-
+      ## **Lạc Việt Tourist**
 
 
   - type: text_media
@@ -104,10 +102,12 @@ blocks:
       embed: youtube
       image_opacity: ""
     content: >-
-      ## **A green page speed score** Optimized Speed and Accessibility
+      ## **Lạc Việt Tourist**
 
 
-      Achieving a in the high 90 page speed score and adhering to WCAG 2.1 AA standards, we demonstrate our unwavering commitment. Our dedication to optimizing speed and ensuring accessibility guarantees a superior user experience for all.
+      Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
+      
+
   - type: text_media
     component: TextMedia
     style:
@@ -124,14 +124,15 @@ blocks:
       thumbnail: /src/assets/gaomin_temple.webp
       video_preview: /video/video_preview.mp4
       embed: youtube
-      video_id: 7Bh-VjqCbxs
+      video_id: N3pZRhV1U
       image_opacity: ""
     content: >
-      ## **Secure by design** Static sites are not only fast but also inherently
-      secure
+      ## **Lạc Việt Tourist**
 
 
-      By eliminating databases and server-side code, static sites become less prone to attacks. Embrace the robust security of static architecture for a safer online presence.
+      Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
+      
+
   - type: text_media
     component: TextMedia
     style:
@@ -149,11 +150,12 @@ blocks:
       embed: youtube
       image_opacity: ""
     content: >
-      ## **Page speed = conversion** Speed Up Conversions & Hoard Leads with
-      Ease!
+      ## **Lạc Việt Tourist**
 
 
-      Unlock higher conversions with StarFunnel! We know the equation: Page Speed equals Conversion. Our focus is simple – speedy lead harvesting for a stellar customer experience. Fast site, happy customers, and effortless conversions – that's StarFunnel
+      Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
+      
+
   - type: text_media
     component: TextMedia
     style:
@@ -171,11 +173,12 @@ blocks:
       embed: youtube
       image_opacity: ""
     content: >
-      ## **Green & Lean** StarFunnel's Small & Speedy Solution for a Greener
-      Web!
+      ## **Lạc Việt Tourist**
 
 
-      Embrace sustainability with StarFunnel! Our smaller, faster site not only means quicker conversions but also a lighter environmental footprint. StarFunnel consumes up to 90% less CO2 than a typical WordPress website, averaging just 0.06g CO2 per view. Join us in making the web greener, one swift and eco-friendly click at a time!
+      Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
+      
+
   - type: recentitems
     component: RecentItems
     page_type: blog
@@ -188,8 +191,9 @@ blocks:
       - Docs
     title: Check out our documentation
     content: >
-      Getting started is easy, just clone the repo, configure and you are ready
-      to go.
+      **Lạc Việt Tourist**
+      
+
   - type: faq
     component: Faq
     title: FAQ's
@@ -200,48 +204,59 @@ blocks:
       - id: 6687141f-b8ce-4d67-ba1f-cf838551eb02
         title: Where can I host StarFunnel?
         description: >
-          StarFunnel can be easily hosted on [Netlify](https://www.netlify.com/)
-          out of the box. If you prefer a different platform, you'll need to
-          deploy and link edge functions to ensure that the forms continue to
-          function seamlessly.
+          **Lạc Việt Tourist** chuyên cung cấp các hành trình du lịch [trong nước](/tours/trong-nuoc) 
+          và [quốc tế](/tours/quoc-te) dành riêng cho người Việt.
+          Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, 
+          giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
       - id: 03c89715-772a-4d6d-8e07-589f8be149d9
         title: What newsletter platforms are supported?
         description: >
-          Currently, StarFunnel integrates with [MailChimp
-          ](https://mailchimp.com/) for newsletter services.
+          **Lạc Việt Tourist** chuyên cung cấp các hành trình du lịch [trong nước](/tours/trong-nuoc) 
+          và [quốc tế](/tours/quoc-te) dành riêng cho người Việt.
+          Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, 
+          giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
       - id: 13236024-260c-4df9-8026-8979f92acffa
         title: How is the contact form handled?
         description: >
-          The contact form submissions can be received through
-          [Postmark](https://postmarkapp.com/) or
-          [MailGun](https://www.mailgun.com/) Alternatively, you can set it up
-          to post directly to a [Slack](https://slack.com/) channel.
+          **Lạc Việt Tourist** chuyên cung cấp các hành trình du lịch [trong nước](/tours/trong-nuoc) 
+          và [quốc tế](/tours/quoc-te) dành riêng cho người Việt.
+          Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, 
+          giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
       - id: b9b4dbd5-e4e3-4653-be11-59686c752f03
         title: How does the contact form topic feature work?
         description: >
-          StarFunnel's contact form supports multiple topics, allowing you to
-          connect a unique email or Slack channel to each specific topic.
+          **Lạc Việt Tourist** chuyên cung cấp các hành trình du lịch [trong nước](/tours/trong-nuoc) 
+          và [quốc tế](/tours/quoc-te) dành riêng cho người Việt.
+          Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, 
+          giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
       - id: 4060ab29-325f-40b4-8013-3981bb6054b4
         title: Is StarFunnel's landing page builder free?
         description: >+
-          Yes, StarFunnel's landing page builder is released under the [CC BY
-          4.0 License](/license)
+          **Lạc Việt Tourist** chuyên cung cấp các hành trình du lịch [trong nước](/tours/trong-nuoc) 
+          và [quốc tế](/tours/quoc-te) dành riêng cho người Việt.
+          Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, 
+          giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
 
       - id: adc5ac8b-4406-475a-9e08-c1781d4cbc74
         title: Can I remove the attribution?
         description: >
-          If you wish to remove the attribution, you have the option to purchase
-          a [license](https://nebulix.unfolding.io/shop/starfunnel-license/) for
-          $149.95 USD.
+          **Lạc Việt Tourist** chuyên cung cấp các hành trình du lịch [trong nước](/tours/trong-nuoc) 
+          và [quốc tế](/tours/quoc-te) dành riêng cho người Việt.
+          Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, 
+          giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
       - id: d89f61b4-0e72-40f0-9a08-d424752f4474
         title: Does StarFunnel come with a CMS?
         description: >
-          Yes, StarFunnel is built on [Static CMS](https://www.staticcms.org/)
-          an open-source CMS based on Git that supports multiple users.
+          **Lạc Việt Tourist** chuyên cung cấp các hành trình du lịch [trong nước](/tours/trong-nuoc) 
+          và [quốc tế](/tours/quoc-te) dành riêng cho người Việt.
+          Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, 
+          giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
       - id: 2a8db3a9-2daf-4f75-a493-c3964454f7b0
         title: Does StarFunnel come with user login functionality?
         description: >
-          While StarFunnel
+          zzzzzz
+          
+
   - type: recentitems
     component: RecentItems
     count: 10
@@ -251,6 +266,8 @@ blocks:
     content: "\n\n\n"
     style:
       surface: surface-base
+      
+
   - type: popup
     component: AnnoyingPopup
     timing:
@@ -258,9 +275,11 @@ blocks:
       duration: 7
       on_load: false
     content: |
-      ## Need help with kickstarting your project!
+      ##  **Lạc Việt Tourist** chuyên cung cấp các hành trình du lịch [trong nước](/tours/trong-nuoc) 
+      và [quốc tế](/tours/quoc-te) dành riêng cho người Việt.
 
-      Get in touch with us and we will help you get started, now with 20% off.
+      Chúng tôi mang đến trải nghiệm chất lượng, gắn kết văn hóa và cảm xúc, 
+      giúp mỗi chuyến đi trở thành ký ức đáng nhớ và ý nghĩa sâu sắc.
     code: GET-HELP-NOW
     style:
       surface: surface-dark
@@ -272,6 +291,8 @@ blocks:
         label: More info
         href: /kickstart-your-project
     link: annoying-popup
+    
+
   - type: text_media
     component: TextMedia
     style:
@@ -282,10 +303,10 @@ blocks:
       block_class: my-0
       image_opacity: ""
     content: >
-      ## Anoying Popups
+      ## **Lạc Việt Tourist**
 
-
-      Add popups on page load or scroll location, you can set a delay and even duration!
+      Chuyên cung cấp các hành trình du lịch [trong nước](/tours/trong-nuoc) 
+      và [quốc tế](/tours/quoc-te) dành riêng cho người Việt.
     media:
       thumbnail: /src/assets/popups.jpeg
       aspect: ""

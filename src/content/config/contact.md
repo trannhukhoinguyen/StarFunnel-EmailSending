@@ -35,7 +35,7 @@ form:
     - label: I am just testing this form
       slack_id: C01821PA5GA
   title: |
-    Talk to us
+    Lạc Việt Tourist giúp gì được cho bạn?
   intro: >
     Great that you have questions! 
 
@@ -57,7 +57,7 @@ newsletter:
       tags:
         - pdf-mindlessness
   thumbnail: /src/assets/reasearch.jpeg
-  title: Join our newsletter
+  title: Đăng ký nhận thư
   link: newsletter
   status: pending
   intro: |

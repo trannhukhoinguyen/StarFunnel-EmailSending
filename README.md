@@ -63,7 +63,6 @@ const config = {
 		}
 	},
 	search: 'true',
-    ....
 }
 
 ```
@@ -77,8 +76,7 @@ export default defineConfig({
 	site: 'https://your-website.com',
 	output: "hybrid",
   	adapter: vercel(), // vercel() or netlify()
-
-    ....
+})
 
 ```
 
